@@ -10,7 +10,7 @@ a:link, a, a:visited {
 
 header {
 	background-color: rgba (0,0,0, 0.5);
-	background-image: url(../img/header-bg.png);	
+	background-image: url(../img/header.jpg);	
 	background-attachment: fixed;
 	-webkit-background-size: 100% auto;
 	background-size: auto 100%;
